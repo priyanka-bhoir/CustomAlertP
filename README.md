@@ -22,4 +22,4 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.priyanka-bhoir:CustomAlertP:Tag'
 	}
-Share this release:
+ 
