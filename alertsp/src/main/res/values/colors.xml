@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="BlackLight">#737272</color>
+    <color name="color_blue">#4A91EA</color>
+
+</resources>

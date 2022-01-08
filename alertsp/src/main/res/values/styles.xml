@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RoundedCornersDialog" parent="Theme.MaterialComponents.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="dialogCornerRadius">10dp</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="actionModeBackground">@color/colorPrimary</item>
+    </style>
+
+    <color name="colorPrimary">#3e569d</color>
+    <color name="colorPrimaryDark">#4c65ae</color>5e73ae
+    <color name="colorAccent">#6480D1</color>
+
+</resources>
