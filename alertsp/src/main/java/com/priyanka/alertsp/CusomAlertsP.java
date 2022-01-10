@@ -35,8 +35,6 @@ public class CusomAlertsP extends Dialog implements View.OnClickListener {
     public static final int ERROR_TYPE = 1;
     public static final int SUCCESS_TYPE = 2;
     public static final int WARNING_TYPE = 3;
-    public static final int CUSTOM_IMAGE_TYPE = 4;
-    public static final int PROGRESS_TYPE = 5;
     public static final int TYPE_QUESTION = 6;
     public static final int TYPE_INFO = 7;
     public static final int TYPE_LOADING = 8;

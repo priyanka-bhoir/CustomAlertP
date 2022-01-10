@@ -2,6 +2,7 @@ package com.priyanka.customalertp
 
 import android.graphics.Color
 import android.os.Bundle
+import android.provider.Settings
 import android.view.View
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
@@ -30,7 +31,6 @@ class MainActivity : AppCompatActivity() {
                 cusomAlertsP.setContentText(message)
             }
             cusomAlertsP.setConfirmButtonText("OK")
-                .setConfirmBTNTextColor(Color.parseColor("#00cc00"))
             cusomAlertsP.setConfirmClickListener(CusomAlertsP.onCusomAlertsPClickListener { sweetAlertDialog: CusomAlertsP -> sweetAlertDialog.dismissWithAnimation() })
             cusomAlertsP.show()
         })
@@ -43,8 +43,35 @@ class MainActivity : AppCompatActivity() {
                 cusomAlertsP.setContentText(message)
             }
             cusomAlertsP.setConfirmButtonText("OK")
-                .setConfirmBTNTextColor(Color.parseColor("#00cc00"))
-            cusomAlertsP.setConfirmClickListener(CusomAlertsP.onCusomAlertsPClickListener { sweetAlertDialog: CusomAlertsP -> sweetAlertDialog.dismissWithAnimation() })
+            cusomAlertsP.setConfirmClickListener(CusomAlertsP.onCusomAlertsPClickListener { customAlertsP: CusomAlertsP -> customAlertsP.dismissWithAnimation() })
+            cusomAlertsP.show()
+        })
+
+        b3?.setOnClickListener(View.OnClickListener {
+            val customAlertsP = 
+                CusomAlertsP(this@MainActivity,CusomAlertsP.WARNING_TYPE)
+            customAlertsP.setTitleText("Warrning!")
+            val message = "this should not to be done!!!!"
+            customAlertsP.setContentText(message)
+            customAlertsP.setConfirmButtonText("OK")
+            customAlertsP.setCancelButtonText("CANCEL")
+            customAlertsP.setCancelClickListener { customAlertsP : CusomAlertsP -> customAlertsP.dismissWithAnimation() }
+            customAlertsP.setConfirmClickListener { customAlertsP : CusomAlertsP -> customAlertsP.dismissWithAnimation() }
+            customAlertsP.show()
+        })
+
+        b4?.setOnClickListener(View.OnClickListener {
+            val cusomAlertsP = CusomAlertsP(this@MainActivity,CusomAlertsP.TYPE_QUESTION)
+            cusomAlertsP.setTitleText("Wana save world??")
+            cusomAlertsP.setContentText("Save Planet save world")
+            cusomAlertsP.setCancelClickListener { cusomAlertsP : CusomAlertsP -> cusomAlertsP.dismissWithAnimation() }
+            cusomAlertsP.setConfirmClickListener { customAlertsP : CusomAlertsP -> customAlertsP.dismissWithAnimation() }
+            cusomAlertsP.show()
+        })
+
+        b5?.setOnClickListener(View.OnClickListener {
+            val cusomAlertsP = CusomAlertsP(this@MainActivity,CusomAlertsP.TYPE_LOADING)
+            cusomAlertsP.setTitleText("Loading")
             cusomAlertsP.show()
         })
     }
