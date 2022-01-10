@@ -42,8 +42,8 @@ class MainActivity : AppCompatActivity() {
             if (message != null && !message.isEmpty()) {
                 cusomAlertsP.setContentText(message)
             }
-            cusomAlertsP.setConfirmButtonText("OK")
-            cusomAlertsP.setConfirmClickListener(CusomAlertsP.onCusomAlertsPClickListener { customAlertsP: CusomAlertsP -> customAlertsP.dismissWithAnimation() })
+            cusomAlertsP.setCancelButtonText("OK")
+            cusomAlertsP.setCancelClickListener(CusomAlertsP.onCusomAlertsPClickListener { customAlertsP: CusomAlertsP -> customAlertsP.dismissWithAnimation() })
             cusomAlertsP.show()
         })
 
@@ -64,6 +64,8 @@ class MainActivity : AppCompatActivity() {
             val cusomAlertsP = CusomAlertsP(this@MainActivity,CusomAlertsP.TYPE_QUESTION)
             cusomAlertsP.setTitleText("Wana save world??")
             cusomAlertsP.setContentText("Save Planet save world")
+            cusomAlertsP.setConfirmButtonText("OK")
+            cusomAlertsP.setCancelButtonText("CANCEL")
             cusomAlertsP.setCancelClickListener { cusomAlertsP : CusomAlertsP -> cusomAlertsP.dismissWithAnimation() }
             cusomAlertsP.setConfirmClickListener { customAlertsP : CusomAlertsP -> customAlertsP.dismissWithAnimation() }
             cusomAlertsP.show()
@@ -71,7 +73,8 @@ class MainActivity : AppCompatActivity() {
 
         b5?.setOnClickListener(View.OnClickListener {
             val cusomAlertsP = CusomAlertsP(this@MainActivity,CusomAlertsP.TYPE_LOADING)
-            cusomAlertsP.setTitleText("Loading")
+            cusomAlertsP.setSpinnerText("Loading")
+            cusomAlertsP.setIsCancelable(true)
             cusomAlertsP.show()
         })
     }
