@@ -24,6 +24,8 @@ To get a Git project into your build:
 ![VID_20220113192626](https://user-images.githubusercontent.com/58426635/149612125-1f67fa33-c08d-404b-a6eb-cfe7397254e3.gif)
 
 
+## Download demo apk from [here][APK]
+[![APK](https://github.com/priyanka-bhoir/CustomAlertP/blob/master/app/release/app-release.apk)][APK]
 
 
 
