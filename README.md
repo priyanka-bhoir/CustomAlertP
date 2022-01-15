@@ -5,23 +5,24 @@
 
 ## Progess
 
-![Record_2022-01-10-22-36-35](https://user-images.githubusercontent.com/58426635/149617023-74daf333-738a-4184-85d2-569565efb9f9.gif)
+![Record_2022-01-10-22-36-35](https://user-images.githubusercontent.com/58426635/149617866-89c81c90-f6a6-4fbf-bd93-5f674ea770ea.gif)
 
 ## Question
 
-![VID_20220113192358](https://user-images.githubusercontent.com/58426635/149617033-345dd075-1424-4968-b494-2b3a9ab88fe3.gif)
+![VID_20220113192358](https://user-images.githubusercontent.com/58426635/149617889-6fba05ef-63d4-4391-953c-7d64b23a64a1.gif)
 
 ## Warning
 
-![VID_20220113192451](https://user-images.githubusercontent.com/58426635/149617038-3faf2616-8194-42b3-9973-4d8abe6a4bdc.gif)
+![VID_20220113192451](https://user-images.githubusercontent.com/58426635/149617880-df96636a-a49c-4724-8176-9ffc9cd1d4e8.gif)
 
 ## Error 
 
-![VID_20220113192538](https://user-images.githubusercontent.com/58426635/149617045-a746f945-bf24-4972-8e72-ae6779b1ba03.gif)
+![VID_20220113192538](https://user-images.githubusercontent.com/58426635/149617897-1eac8985-6ab7-4536-9dbd-024e22858d0e.gif)
+
 
 ## Sucess
 
-![VID_20220113192626](https://user-images.githubusercontent.com/58426635/149617054-e73086bf-12cd-4d03-9787-f0170869c0f2.gif)
+![VID_20220113192626](https://user-images.githubusercontent.com/58426635/149617910-83d441fa-fb07-40af-bdd5-6c95b06290d2.gif)
 
 
 How to
