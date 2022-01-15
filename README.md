@@ -1,7 +1,7 @@
 # CustomAlertP
 
-How to
-To get a Git project into your build:
+## Download demo apk from [here](https://github.com/priyanka-bhoir/CustomAlertP/blob/master/app/release/app-release.apk)
+
 
 ## Progess
 
@@ -24,9 +24,8 @@ To get a Git project into your build:
 ![VID_20220113192626](https://user-images.githubusercontent.com/58426635/149612125-1f67fa33-c08d-404b-a6eb-cfe7397254e3.gif)
 
 
-## Download demo apk from [here](https://github.com/priyanka-bhoir/CustomAlertP/blob/master/app/release/app-release.apk)
-
-
+How to
+To get a Git project into your build:
 
 Step 1. Add the JitPack repository to your build file
 
