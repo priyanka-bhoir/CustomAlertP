@@ -5,24 +5,18 @@ To get a Git project into your build:
 
 ## Progess
 
+![Record_2022-01-10-22-36-35](https://user-images.githubusercontent.com/58426635/149612119-a36bb2a4-4bca-4f58-abb8-9697090c03b6.gif)
 
-https://user-images.githubusercontent.com/58426635/149611681-551c522b-27aa-435a-9882-ab51ec946bb6.mp4
+![VID_20220113192358](https://user-images.githubusercontent.com/58426635/149612121-175018db-2bc2-4c75-b504-69afe247d97f.gif)
 
-## Question
+![VID_20220113192451](https://user-images.githubusercontent.com/58426635/149612123-9f7aaec6-e1c3-41b2-8cdf-c8052a81969c.gif)
 
-https://user-images.githubusercontent.com/58426635/149611683-bccf24ae-7cdd-4ceb-ae62-c92e85f92640.mp4
+![VID_20220113192538](https://user-images.githubusercontent.com/58426635/149612124-1b8668c7-c231-4a88-8b2c-d9fa9d01bcf2.gif)
 
-## Warrning
+![VID_20220113192626](https://user-images.githubusercontent.com/58426635/149612125-1f67fa33-c08d-404b-a6eb-cfe7397254e3.gif)
 
-https://user-images.githubusercontent.com/58426635/149611685-fea5e789-f683-4f4d-a7bb-70c9b5415da4.mp4
 
-## Error
 
-https://user-images.githubusercontent.com/58426635/149611686-5d611c80-d225-45fd-aa32-92f6e80bd1d2.mp4
-
-## Sucess
-
-https://user-images.githubusercontent.com/58426635/149611687-252dea6c-7ea1-4668-9f26-58c2801ea42a.mp4
 
 
 Step 1. Add the JitPack repository to your build file
