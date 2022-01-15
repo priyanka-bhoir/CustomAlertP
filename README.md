@@ -5,7 +5,7 @@
 
 ## Progess
 
-![Record_2022-01-10-22-36-35](https://user-images.githubusercontent.com/58426635/149612119-a36bb2a4-4bca-4f58-abb8-9697090c03b6.gif {:height="24px" width="48px"})
+![Record_2022-01-10-22-36-35](https://user-images.githubusercontent.com/58426635/149612119-a36bb2a4-4bca-4f58-abb8-9697090c03b6.gif){:height="24px" width="48px"}
 
 ## Question
 
