@@ -3,8 +3,6 @@
 How to
 To get a Git project into your build:
 
-Step 1. Add the JitPack repository to your build file
-
 * Loading
 
 
@@ -27,7 +25,7 @@ https://user-images.githubusercontent.com/58426635/149611686-5d611c80-d225-45fd-
 https://user-images.githubusercontent.com/58426635/149611687-252dea6c-7ea1-4668-9f26-58c2801ea42a.mp4
 
 
-
+Step 1. Add the JitPack repository to your build file
 
 gradle
 maven
