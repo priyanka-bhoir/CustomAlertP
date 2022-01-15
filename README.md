@@ -7,11 +7,19 @@ To get a Git project into your build:
 
 ![Record_2022-01-10-22-36-35](https://user-images.githubusercontent.com/58426635/149612119-a36bb2a4-4bca-4f58-abb8-9697090c03b6.gif)
 
+## Question
+
 ![VID_20220113192358](https://user-images.githubusercontent.com/58426635/149612121-175018db-2bc2-4c75-b504-69afe247d97f.gif)
+
+## Warning
 
 ![VID_20220113192451](https://user-images.githubusercontent.com/58426635/149612123-9f7aaec6-e1c3-41b2-8cdf-c8052a81969c.gif)
 
+## Error 
+
 ![VID_20220113192538](https://user-images.githubusercontent.com/58426635/149612124-1b8668c7-c231-4a88-8b2c-d9fa9d01bcf2.gif)
+
+## Sucess
 
 ![VID_20220113192626](https://user-images.githubusercontent.com/58426635/149612125-1f67fa33-c08d-404b-a6eb-cfe7397254e3.gif)
 
