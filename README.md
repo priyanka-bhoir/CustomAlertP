@@ -1,5 +1,7 @@
 # CustomAlertP
 
+Free and Open Source Android Library for custom alert and progress.
+
 ## Download demo apk from [here](https://github.com/priyanka-bhoir/CustomAlertP/blob/master/app/release/app-release.apk)
 
 
